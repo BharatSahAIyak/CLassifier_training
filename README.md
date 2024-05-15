@@ -1,2 +1,2 @@
-# CLassifier_training
+# Classifier_training
 Repository to train classifiers
